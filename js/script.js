@@ -1,5 +1,6 @@
 const questions = document.querySelectorAll(".question");
 
+// *also works but less pretty
 // questions.forEach(function(question) {
 //     question.addEventListener("click", function(e) {
 //         const button = e.target.parentElement.parentElement;
